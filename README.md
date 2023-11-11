@@ -7,7 +7,12 @@
 ###### Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+I used `python` to to write a script that explores data related to `bike share systems` for three major cities in the United States 
+*Chicago
+*New York City
+*Washington
+
+I made use of `Numpy` and `Pandas` libralies to come up with the script. 
 
 ### Files used
 Include the files used
