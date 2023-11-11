@@ -23,6 +23,6 @@ I made use of `Numpy` and `Pandas` Python libralies to come up with the script.
 3. washington.csv
 
 ### Credits
-Forked from [pdsnd](https://github.com/udacity/pdsnd_github)
+Some files forked from [pdsnd](https://github.com/udacity/pdsnd_github)
 Special Thanks to [Udacity_Team](https://www.udacity.com/) and [Access_Bank](https://www.accessbankplc.com/) for this golden oppotunity  
  
