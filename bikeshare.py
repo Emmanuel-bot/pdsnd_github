@@ -153,12 +153,12 @@ def user_stats(df):
           print('The genders are {}' .format(df['Gender'].value_counts()))
 
     # TO DO: Display earliest, most recent, and most common year of birth
-    if('Birth year' not in df):
-        print('Birth year Not avalilable')
+    if('Year of birth' not in df):
+        print('Year of birth Not avalilable')
     else:
-        print('The Earliest birth year is {}'.format(df['Birth Year'].min()))
-        print('The most recent birth year is {}'.format(df['Birth Year'].max()))              
-        print('The most common birth year is {}'.format(df['Birth Year'].mode()[0]))
+        print('The Earliest Year of birth is {}'.format(df['Year of birth'].min()))
+        print('The most recent Year of birth is {}'.format(df['Year of birth'].max()))              
+        print('The most common Year of birth is {}'.format(df['Year of birth'].mode()[0]))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
